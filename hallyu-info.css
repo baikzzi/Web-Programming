@@ -1,0 +1,24 @@
+body {
+    background-color:lightsteelblue;
+    margin-left: 50px;
+    margin-right: 50px;   
+}
+
+h3 {
+    text-align: center;
+    color: darkred;
+}
+
+hr {
+    height: 5px;
+    border: solid black;
+    background-color: black;
+}
+
+span {
+    color: blue;
+    font-size: 150%;
+}
+#mouse {
+    font-size: 100%;
+}
